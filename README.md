@@ -1,5 +1,5 @@
 # Library_Management_System
-#A Library Management System is a Java GUI Desktop Application. The project consists of Java Swing and MySQL for user-friendly interface. The target users of the project are the librarian and student/borrower of the book. The whole project is mainly divided into Admin Section and Student section.
+A Library Management System is a Java GUI Desktop Application. The project consists of Java Swing and MySQL for user-friendly interface. The target users of the project are the librarian and student/borrower of the book. The whole project is mainly divided into Admin Section and Student section.
 
 Prerequisites
 Download Java runtime environment, NetBeans IDE and MySQL plugins for the same to run the project.
